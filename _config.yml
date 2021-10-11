@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Avoid Wildcard TLS Certificates and the ALPACA Technique"
+author: "Nilesh Gavali"
+description: "Wildcard certificates are often used to authenticate multiple servers, saving organizations time and money. Wildcard certificates have legitimate uses, but can confer risk from poorly secured servers to other servers in the same certificate’s scope." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "example@mail.com"
 twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+github_username: "NileshGavali"
+linkedin_username: "nileshgavali"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
